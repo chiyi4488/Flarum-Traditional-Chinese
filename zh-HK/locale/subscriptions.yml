@@ -1,0 +1,13 @@
+subscriptions:
+  following: 關注
+  ignoring: 忽略
+  follow: 關注
+  unfollow: 取消關注
+  ignore: 忽略
+  notify_new_post: 我關注的話題被回覆
+  new_post_notification: "{username} 回覆了你關注的內容"
+  not_following: 常規
+  not_following_description: 僅在有人@提到我時提醒我
+  following_description: 當有人回覆此話題時提醒我
+  ignoring_description: 不接收任何提醒並隱藏此話題
+  unignore: 取消忽略

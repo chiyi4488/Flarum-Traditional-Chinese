@@ -1,0 +1,20 @@
+tags:
+  tags: 節點
+  discussion_tagged_post:
+    one: "{username} {action} 分類"
+    other: "{username} {action} 分類"
+  added_tags: "加入分類 {tags}"
+  removed_tags: "移除分類 {tags}"
+  tag_new_discussion_title: 選擇分類
+  tag_new_discussion_link: 選擇節點
+  edit_discussion_tags_title: "編輯 {title} 的分類"
+  edit_discussion_tags_link: 編輯分類
+  choose_primary_tags:
+    one: 選擇一個節點
+    other: "選擇 {count} 個節點"
+  choose_secondary_tags:
+    one: 選擇一個標籤
+    other: "選擇 {count} 個標籤"
+  confirm: 確定
+  more: 更多...
+  deleted: 刪除

@@ -1,0 +1,4 @@
+pusher:
+  show_updated_discussions:
+    one: "顯示 {count} 個話題更新"
+    other: "顯示 {count} 個話題更新"

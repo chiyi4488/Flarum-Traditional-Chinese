@@ -1,0 +1,8 @@
+lock:
+  discussion_locked_notification: "{username} 鎖定了你的話題"
+  discussion_locked_post: "{username} 鎖定了此話題"
+  discussion_unlocked_post: "{username} 解鎖了此話題"
+  notify_discussion_locked: 我的話題被鎖定
+  locked: Locked
+  lock: 鎖定
+  unlock: 解除鎖定

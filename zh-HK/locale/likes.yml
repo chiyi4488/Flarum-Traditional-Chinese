@@ -1,0 +1,12 @@
+likes:
+  post_liked_notification: "{username} 喜歡了你的內容"
+  post_likes_modal_title: 喜歡它的用户
+  post_liked_by_self: "{users} 喜歡它"
+  post_liked_by:
+    one: "{users} 喜歡它"
+    other: "{users} 喜歡它"
+  unlike_action: 取消喜歡
+  like_action: 喜歡
+  notify_post_liked: 有人喜歡我的內容
+  others: "{count} 個人"
+  you: 你
